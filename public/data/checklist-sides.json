@@ -1,0 +1,332 @@
+{
+  "page": 0,
+  "size": 10,
+  "totalSize": 34,
+  "entities": [
+    {
+      "id": 0,
+      "wagonSide": {
+        "id": 0,
+        "wagonType": 0,
+        "name": "Колесо - 0"
+      },
+      "name": "Проверка - 0"
+    },
+    {
+      "id": 1,
+      "wagonSide": {
+        "id": 1,
+        "wagonType": 1,
+        "name": "Колесо - 1"
+      },
+      "name": "Проверка - 1"
+    },
+    {
+      "id": 2,
+      "wagonSide": {
+        "id": 2,
+        "wagonType": 2,
+        "name": "Колесо - 2"
+      },
+      "name": "Проверка - 2"
+    },
+    {
+      "id": 3,
+      "wagonSide": {
+        "id": 0,
+        "wagonType": 3,
+        "name": "Колесо - 0"
+      },
+      "name": "Проверка - 3"
+    },
+    {
+      "id": 4,
+      "wagonSide": {
+        "id": 1,
+        "wagonType": 4,
+        "name": "Колесо - 1"
+      },
+      "name": "Проверка - 4"
+    },
+    {
+      "id": 5,
+      "wagonSide": {
+        "id": 2,
+        "wagonType": 0,
+        "name": "Колесо - 2"
+      },
+      "name": "Проверка - 5"
+    },
+    {
+      "id": 6,
+      "wagonSide": {
+        "id": 0,
+        "wagonType": 1,
+        "name": "Колесо - 0"
+      },
+      "name": "Проверка - 6"
+    },
+    {
+      "id": 7,
+      "wagonSide": {
+        "id": 1,
+        "wagonType": 2,
+        "name": "Колесо - 1"
+      },
+      "name": "Проверка - 7"
+    },
+    {
+      "id": 8,
+      "wagonSide": {
+        "id": 2,
+        "wagonType": 3,
+        "name": "Колесо - 2"
+      },
+      "name": "Проверка - 8"
+    },
+    {
+      "id": 9,
+      "wagonSide": {
+        "id": 0,
+        "wagonType": 4,
+        "name": "Колесо - 0"
+      },
+      "name": "Проверка - 9"
+    },
+    {
+      "id": 10,
+      "wagonSide": {
+        "id": 1,
+        "wagonType": 0,
+        "name": "Колесо - 1"
+      },
+      "name": "Проверка - 10"
+    },
+    {
+      "id": 11,
+      "wagonSide": {
+        "id": 2,
+        "wagonType": 1,
+        "name": "Колесо - 2"
+      },
+      "name": "Проверка - 11"
+    },
+    {
+      "id": 12,
+      "wagonSide": {
+        "id": 0,
+        "wagonType": 2,
+        "name": "Колесо - 0"
+      },
+      "name": "Проверка - 12"
+    },
+    {
+      "id": 13,
+      "wagonSide": {
+        "id": 1,
+        "wagonType": 3,
+        "name": "Колесо - 1"
+      },
+      "name": "Проверка - 13"
+    },
+    {
+      "id": 14,
+      "wagonSide": {
+        "id": 2,
+        "wagonType": 4,
+        "name": "Колесо - 2"
+      },
+      "name": "Проверка - 14"
+    },
+    {
+      "id": 15,
+      "wagonSide": {
+        "id": 0,
+        "wagonType": 0,
+        "name": "Колесо - 0"
+      },
+      "name": "Проверка - 15"
+    },
+    {
+      "id": 16,
+      "wagonSide": {
+        "id": 1,
+        "wagonType": 1,
+        "name": "Колесо - 1"
+      },
+      "name": "Проверка - 16"
+    },
+    {
+      "id": 17,
+      "wagonSide": {
+        "id": 2,
+        "wagonType": 2,
+        "name": "Колесо - 2"
+      },
+      "name": "Проверка - 17"
+    },
+    {
+      "id": 18,
+      "wagonSide": {
+        "id": 0,
+        "wagonType": 3,
+        "name": "Колесо - 0"
+      },
+      "name": "Проверка - 18"
+    },
+    {
+      "id": 19,
+      "wagonSide": {
+        "id": 1,
+        "wagonType": 4,
+        "name": "Колесо - 1"
+      },
+      "name": "Проверка - 19"
+    },
+    {
+      "id": 20,
+      "wagonSide": {
+        "id": 2,
+        "wagonType": 0,
+        "name": "Колесо - 2"
+      },
+      "name": "Проверка - 20"
+    },
+    {
+      "id": 21,
+      "wagonSide": {
+        "id": 0,
+        "wagonType": 1,
+        "name": "Колесо - 0"
+      },
+      "name": "Проверка - 21"
+    },
+    {
+      "id": 22,
+      "wagonSide": {
+        "id": 1,
+        "wagonType": 2,
+        "name": "Колесо - 1"
+      },
+      "name": "Проверка - 22"
+    },
+    {
+      "id": 23,
+      "wagonSide": {
+        "id": 2,
+        "wagonType": 3,
+        "name": "Колесо - 2"
+      },
+      "name": "Проверка - 23"
+    },
+    {
+      "id": 24,
+      "wagonSide": {
+        "id": 0,
+        "wagonType": 4,
+        "name": "Колесо - 0"
+      },
+      "name": "Проверка - 24"
+    },
+    {
+      "id": 25,
+      "wagonSide": {
+        "id": 1,
+        "wagonType": 0,
+        "name": "Колесо - 1"
+      },
+      "name": "Проверка - 25"
+    },
+    {
+      "id": 26,
+      "wagonSide": {
+        "id": 2,
+        "wagonType": 1,
+        "name": "Колесо - 2"
+      },
+      "name": "Проверка - 26"
+    },
+    {
+      "id": 27,
+      "wagonSide": {
+        "id": 0,
+        "wagonType": 2,
+        "name": "Колесо - 0"
+      },
+      "name": "Проверка - 27"
+    },
+    {
+      "id": 28,
+      "wagonSide": {
+        "id": 1,
+        "wagonType": 3,
+        "name": "Колесо - 1"
+      },
+      "name": "Проверка - 28"
+    },
+    {
+      "id": 29,
+      "wagonSide": {
+        "id": 2,
+        "wagonType": 4,
+        "name": "Колесо - 2"
+      },
+      "name": "Проверка - 29"
+    },
+    {
+      "id": 30,
+      "wagonSide": {
+        "id": 0,
+        "wagonType": 0,
+        "name": "Колесо - 0"
+      },
+      "name": "Проверка - 30"
+    },
+    {
+      "id": 31,
+      "wagonSide": {
+        "id": 1,
+        "wagonType": 1,
+        "name": "Колесо - 1"
+      },
+      "name": "Проверка - 31"
+    },
+    {
+      "id": 32,
+      "wagonSide": {
+        "id": 2,
+        "wagonType": 2,
+        "name": "Колесо - 2"
+      },
+      "name": "Проверка - 32"
+    },
+    {
+      "id": 33,
+      "wagonSide": {
+        "id": 0,
+        "wagonType": 3,
+        "name": "Колесо - 0"
+      },
+      "name": "Проверка - 33"
+    },
+    {
+      "id": 34,
+      "wagonSide": {
+        "id": 1,
+        "wagonType": 4,
+        "name": "Колесо - 1"
+      },
+      "name": "Проверка - 34"
+    },
+    {
+      "id": 35,
+      "wagonSide": {
+        "id": 2,
+        "wagonType": 0,
+        "name": "Колесо - 2"
+      },
+      "name": "Проверка - 35"
+    }
+  ]
+}
+

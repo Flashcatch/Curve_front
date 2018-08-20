@@ -1,0 +1,78 @@
+{
+  "menu": {
+    "theme": {
+      "en": "Theme"
+    },
+    "theme.light": {
+      "en": "Light theme"
+    },
+    "theme.gray": {
+      "en": "Gray theme"
+    },
+    "theme.dark": {
+      "en": "Dark theme"
+    },
+    "schedule": {
+      "en": "Schedule"
+    },
+    "block_bookings": {
+      "en": "Block bookings"
+    },
+    "all_patients": {
+      "en": "All patients"
+    },
+    "new_patient": {
+      "en": "New patient"
+    }
+  },
+  "button": {
+    "create": {
+      "ru": "Создать",
+      "en": "Create"
+    },
+    "edit": {
+      "ru": "Редактировать",
+      "en": "Edit"
+    },
+    "delete": {
+      "ru": "Удалить",
+      "en": "Delete"
+    },
+    "cancel": {
+      "ru": "Отменить",
+      "en": "Cancel"
+    },
+    "save": {
+      "ru": "Сохраниь",
+      "en": "Save"
+    },
+    "update": {
+      "ru": "Обновить",
+      "en": "Update"
+    },
+    "confirm": {
+      "ru": "Подтвердить",
+      "en": "Confirm"
+    }
+  },
+  "title": {
+    "create_record": {
+      "ru": "Создание записи",
+      "en": "Creating a record"
+    },
+    "edit_record": {
+      "ru": "Редактирование записи",
+      "en": "Editing a record"
+    },
+    "delete_record": {
+      "ru": "Удаление записи",
+      "en": "Deleting a record"
+    }
+  },
+  "message": {
+    "delete_record": {
+      "ru": "Вы действительно хотите удалить запись?",
+      "en": "Are you sure you want to delete this post?"
+    }
+  }
+}

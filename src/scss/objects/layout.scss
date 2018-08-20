@@ -1,0 +1,85 @@
+.container {
+  padding-left: 5px;
+  padding-right: 5px;
+  overflow-x: hidden;
+
+  @media screen and (min-width: 768px) {
+    width: 100%;
+    max-width: 1630px;
+  }
+}
+
+.example-custom-input {
+  cursor: pointer;
+  padding: 5px 15px;
+  border: 0;
+  border-radius: 4px;
+  background-color: #bfbdbd;
+  font: inherit;
+  color: #fff;
+  margin-right: 15px;
+  border-bottom: none !important;
+  padding-top: 8px;
+}
+
+.react-datepicker__input-container {
+  input {
+    border: none;
+    border-bottom: solid 1px #e0e0e0
+  }
+}
+
+.my_fa_class {
+  cursor: pointer;
+  margin-right: 10px;
+}
+
+.pagination_grid_record {
+  margin-top: 25px;
+  .pagination__wrap {
+    position: absolute;
+    bottom: 0;
+  }
+  button {
+    margin-bottom: 0px;
+  }
+}
+
+.wrapper {
+
+  @include themify($themes) {
+    background: themed('colorBackgroundBody');
+  }
+
+  &.wrapper--full-width {
+
+    .container__wrap {
+      padding-left: 0;
+
+      @media screen and (min-width: 576px) {
+        padding-left: 60px;
+      }
+    }
+  }
+
+  &.top-navigation{
+
+    .container__wrap{
+
+      @media screen and (min-width: 576px) {
+        padding-left: 0;
+      }
+    }
+  }
+}
+
+.container__wrap {
+  padding-left: 0;
+  padding-top: 65px;
+  min-height: 100vh;
+  transition: padding-left 0.3s;
+
+  @media screen and (min-width: 576px) {
+    padding-left: 240px;
+  }
+}
